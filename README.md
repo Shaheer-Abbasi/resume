@@ -42,6 +42,18 @@ Bachelor of Science in Computer Science
 
 ---
 
+## Experience
+
+### Varsity Tutors | Remote  
+**Computer Science Tutor**  
+_Aug. 2024 -- Present_
+
+- Provide personalized tutoring sessions in computer science, covering topics such as algorithms, data structures, and programming languages (e.g., Java, Python).
+- Adapt teaching methods to meet the individual needs of students and improve their understanding of complex concepts.
+- Foster a positive learning environment and offer guidance on study strategies and time management.
+
+---
+
 ## Technical Skills
 
 - **Programming Languages**: Java, Python, C/C++, JavaScript, HTML/CSS, Go
